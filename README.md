@@ -1,2 +1,19 @@
-# employee-management-system
-The Employee Management System is a GUI-based application built using Python, Tkinter, and MySQL. It allows users to perform CRUD operations like adding, viewing, updating, and deleting employee records. This project demonstrates Python–MySQL integration with a simple user-friendly interface.
+# Employee Management System
+
+A GUI-based Employee Management System built using Python, Tkinter, and MySQL. It performs CRUD operations like Add, View, Update, and Delete employee records.
+
+## Features
+- Add Employee  
+- View Employees  
+- Update Employee  
+- Delete Employee  
+- MySQL Database Integration  
+- Tkinter GUI Interface  
+
+## Technologies Used
+- Python  
+- MySQL  
+- Tkinter  
+
+## Author
+Pranitha
